@@ -1,0 +1,20 @@
+# Framework
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+
+# Configuration & Data Validation
+pydantic==2.7.1
+pydantic-settings==2.2.1
+python-dotenv==1.0.1
+
+# OpenAI API
+openai==1.28.0
+
+# HTTP Client (for image download)
+httpx==0.27.0
+
+# Form Data / File Uploads (FastAPI dependency)
+python-multipart==0.0.9
+
+# Templating Engine
+Jinja2==3.1.4 
